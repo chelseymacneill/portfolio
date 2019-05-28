@@ -46,3 +46,13 @@ html,body,.container {
 
 }
 
+/* Getting the link of my name to not be blue*/
+#name-opening  { text-decoration : none;
+    
+}
+
+#name-opening a:visited, #name-opening a:hover, #name-opening a:active, #name-opening.active a {
+    color: rgb(247, 34, 34) !important;
+}
+
+
