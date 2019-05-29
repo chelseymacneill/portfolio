@@ -46,6 +46,13 @@ html,body,.container {
 
 }
 
+.card-text { color: darkgrey;
+    text-align: center;
 
+}
+
+.card {
+    margin: 5px;
+}
 
 
