@@ -29,7 +29,7 @@ html,body,.container {
     color: rgb(247, 34, 34);
     font-family: 'Poppins';
     font-weight: 900;
-    font-size: 45px;
+    font-size: 100%;
     padding: 50px;
 
 }
@@ -41,18 +41,11 @@ html,body,.container {
     color: rgb(247, 34, 34);
     font-family: 'Poppins';
     font-weight: 900;
-    font-size: 35px;
+    font-size: 100%;
     padding: 50px;
 
 }
 
-/* Getting the link of my name to not be blue*/
-#name-opening  { text-decoration : none;
-    
-}
 
-#name-opening a:visited, #name-opening a:hover, #name-opening a:active, #name-opening.active a {
-    color: rgb(247, 34, 34) !important;
-}
 
 
